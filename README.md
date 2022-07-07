@@ -1,6 +1,6 @@
-# go-micro-plugins
+# go-micro-plugins-protocol-one
 
-[![Build Status](https://travis-ci.org/ProtocolONE/go-micro-plugins.svg?branch=master)](https://travis-ci.org/ProtocolONE/go-micro-plugins) [![codecov](https://codecov.io/gh/ProtocolONE/go-micro-plugins/branch/master/graph/badge.svg)](https://codecov.io/gh/ProtocolONE/go-micro-plugins)
+[![Build Status](https://travis-ci.org/paysuper/go-micro-plugins-protocol-one.svg?branch=master)](https://travis-ci.org/paysuper/go-micro-plugins-protocol-one) [![codecov](https://codecov.io/gh/paysuper/go-micro-plugins/branch/master/graph/badge.svg)](https://codecov.io/gh/paysuper/go-micro-plugins)
 
 A repository for go-micro protocol one plugins.
 

@@ -25,7 +25,7 @@ Import the plugins in a Go program then call service.Init to parse the command l
 ```go
 import (
 	"github.com/micro/go-micro"
-	prometheus_plugin "github.com/ProtocolONE/go-micro-plugins/wrapper/monitoring/prometheus"
+	prometheus_plugin "github.com/paysuper/go-micro-plugins-protocol-one/wrapper/monitoring/prometheus"
 )
 
 func main() {
